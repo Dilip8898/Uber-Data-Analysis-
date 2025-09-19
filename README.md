@@ -25,3 +25,9 @@ The following libraries are required:
 - Matplotlib / Seaborn / Plotly (visualizations)
 - Flask / Dash / Streamlit (for the interactive web interface)
 - Scikit-learn (for additional modeling, if applying predictive analysis)
+
+## OverView
+<img width="1307" height="731" alt="Overview Image" src="https://github.com/user-attachments/assets/f1d47dde-24d3-4e6b-ae53-de30b039b1c5" />
+
+
+
